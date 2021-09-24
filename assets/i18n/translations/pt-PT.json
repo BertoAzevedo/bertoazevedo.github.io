@@ -1,0 +1,23 @@
+{
+  "Hello!  👋": "Olá!  👋",
+  "Thank you!": "Obrigado!",
+  "More about me": "Mais sobre mim",
+  "About me": "Sobre mim",
+  "Skills": "Skills",
+  "Projects": "Projetos",
+  "Experience": "Experiência",
+  "My name is Berto Azevedo. I'm working as Full-Stack Developer. My main interests are in Web/Mobile development and systems automation. Right now I'm also developing some personal projects that are helping me to acquire knowledge in IoT and home automation.": "O meu nome é Berto Azevedo. Atualmente trabalho como Full-Stack Developer. Tenho como principais interesses o desenvolvimento de aplicações Web/Mobile e automação de sistemas. Neste momento também estou a desenvolver alguns projetos pessoais que me estão a ajudar a adquirir conhecimentos na área de IoT e domótica.",
+  "Collaboration": "Colaboração",
+  "Adaptability": "Adaptabilidade",
+  "Problem solving": "Solução de problemas",
+  "Creativity": "Criatividade",
+  "September 2019 – Present": "Setembro 2019 – Presente",
+  "Mobile application for users of a Local Health Unit.": "Aplicação móvel para utentes de uma Unidade Local de Saúde.",
+  "- Schedule appointments and exams;": "- Agendar consultas e exames;",
+  "- Access a set of features related to medical procedures;": "- Aceder a um conjunto de funcionalidades relacionadas com atos médicos;",
+  "- Check the scheduled of appointments;": "- Consultar a agenda de marcações;",
+  "- Access appointment history and view medical reports.": "- Aceder ao histórico de marcações e visualizar relatórios médicos.",
+  "Mobile application for monitoring electric wheelchairs.": "Aplicação móvel de monitorização cadeiras de rodas elétricas.",
+  "The application's main objective is the integration and interpretation of data from the electric wheelchair, providing a set of metrics and graphs in an intuitive and easy-to-understand dashboard to assist the orthoprosthetic physician in monitoring the chair user.": "A aplicação tem como principal objetivo a integração e interpretação de dados da cadeira de rodas elétrica, disponibilizando um conjunto de métricas e gráficos numa dashboard intuitiva e de fácil compreensão para auxiliar o médico Ortoprotésico no acompanhamento do utilizador da cadeira.",
+  "Development of Point of Sale (POS's) and Selfcheckout's (SCO's) systems in SONAE's retail area.": "Desenvolvimento dos sistemas de Ponto de Venda (POS's) e de Selfcheckout's (SCO's) na área de retalho da SONAE."
+}
